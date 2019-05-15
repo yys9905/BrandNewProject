@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class DivideByZero here.
+ * Write a description of class Class1 here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class DivideByZero
+public class Class1
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class DivideByZero
+     * Constructor for objects of class Class1
      */
-    public DivideByZero()
+    public Class1()
     {
         // initialise instance variables
         x = 0;
