@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class Class2 here.
+ * Write a description of class NewClass here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Class2
+public class NewClass
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class Class2
+     * Constructor for objects of class NewClass
      */
-    public Class2()
+    public NewClass()
     {
         // initialise instance variables
         x = 0;
